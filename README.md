@@ -101,6 +101,21 @@ Amazon Product Dataset including:
 - How does rating vary across price ranges?
 
   ---
+
+  ## 🛠 Skills Demonstrated
+
+- Data Cleaning using SQL
+- Data Transformation
+- Data Modeling
+- DAX Calculations
+- Dashboard Design
+- Business Intelligence Reporting
+- Data Visualization using Power BI
+- Analytical Thinking
+
+  ---
+
+  
 ## 📌 Author
 
 Mohammed Jasim
