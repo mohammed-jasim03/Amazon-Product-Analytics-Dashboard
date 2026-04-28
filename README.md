@@ -88,6 +88,19 @@ Amazon Product Dataset including:
 
 ### Dashboard 3 — Revenue & Discount Performance Analysis
 ![Dashboard 3](images/Dashboard3.png)
+
+---
+
+
+## Business Questions Solved
+
+- Which product categories generate the highest revenue?
+- How do discounts impact revenue potential?
+- What price range dominates product distribution?
+- Which products receive the highest customer engagement?
+- How does rating vary across price ranges?
+
+  ---
 ## 📌 Author
 
 Mohammed Jasim
