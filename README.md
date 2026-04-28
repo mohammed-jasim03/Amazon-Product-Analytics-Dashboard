@@ -77,6 +77,17 @@ Amazon Product Dataset including:
 
 ---
 
+
+## 📊 Dashboard Preview
+
+### Dashboard 1 — Product Analytics Overview
+![Dashboard 1](images/Dashboard1.png)
+
+### Dashboard 2 — Feedback & Pricing Trends
+![Dashboard 2](images/Dashboard2.png)
+
+### Dashboard 3 — Revenue & Discount Performance Analysis
+![Dashboard 3](images/Dashboard3.png)
 ## 📌 Author
 
 Mohammed Jasim
